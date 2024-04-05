@@ -61,7 +61,7 @@ function printReceipt() {
             <h1>Receipt</h1>
             <p><strong>Thank You!</strong></p>
             <p><strong>Rental Date:</strong> ${date}</p>
-            <p><strong>Total Price:</strong> ${totalFines}</p>
+            <p><strong>Total Price:</strong> $${totalFines}</p>
             <!-- Add more receipt details as needed -->
         `;
     
